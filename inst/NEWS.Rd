@@ -175,3 +175,9 @@
     \item Added vignette describing GWASTools data structures.
   }
 }
+\section{Changes in version 1.4.2}{
+  \itemize{
+    \item Updated GdsReader for compatibility with gdsfmt 0.9.11 (no
+    longer compatible with older versions).
+  }
+}
