@@ -252,4 +252,11 @@
     and chromosome codes in the GDS file.
   }
 }
+\section{Changes in version 1.6.2}{
+  \itemize{
+    \item More informative error messages in anomDetectBAF and
+    anomDetectLOH.
+  }
+}
+
 
