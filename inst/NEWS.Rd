@@ -258,5 +258,10 @@
     anomDetectLOH.
   }
 }
+\section{Changes in version 1.6.3}{
+  \itemize{
+    \item Updated vignette for SNPRelate 0.9.15.
+  }
+}
 
 
