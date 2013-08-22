@@ -263,5 +263,10 @@
     \item Updated vignette for SNPRelate 0.9.15.
   }
 }
+\section{Changes in version 1.6.4}{
+  \itemize{
+    \item Updated vignette for SNPRelate 0.9.16.
+  }
+}
 
 
