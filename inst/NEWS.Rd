@@ -292,4 +292,10 @@
     \item Bug fix in printing pedigreeCheck error message.
   }
 }
+\section{Changes in version 1.8.1}{
+  \itemize{
+    \item Bug fix in getChromosome method for SnpAnnotationDataFrame
+    (proper behavior of unnamed "index" argument).
+  }
+}
 
