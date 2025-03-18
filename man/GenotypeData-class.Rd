@@ -52,7 +52,8 @@
   data.
   Snp and scan annotation are optional, but if included in the
   GenotypeData object, their unique integer ids (snpID and scanID) are
-  checked against the ids stored in the data slot to ensure consistency.
+  checked against the ids stored in the data slot to ensure consistency
+  (identical ids in the same order in both objects).
 }
 
 \section{Constructor}{
